@@ -423,6 +423,10 @@
 		<repository>
 			<id>ossrh</id>
 			<url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+		      <id>egit</id>
+		      <name>Eclipse egit</name>
+		      <url>https://repo.eclipse.org/content/repositories/egit-releases/</url>
+
 		</repository>
 		<site>
 			<id>github-project-site</id>
