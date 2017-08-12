@@ -7,19 +7,6 @@
 		<artifactId>oss-parent</artifactId>
 		<version>7</version>
 	</parent>
-
-<settings>
-
-  <mirrors>
-    <mirror>
-      <id>UK</id>
-      <name>Maven Central UK</name>
-      <url>http://uk.maven.org/maven2</url>
-      <mirrorOf>central</mirrorOf>
-    </mirror>
-  </mirrors>
-  
-</settings>	
 	
 	<groupId>uk.co.jemos.podam</groupId>
 	<artifactId>podam</artifactId>
